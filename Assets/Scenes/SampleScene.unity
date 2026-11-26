@@ -167,10 +167,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7822023324726491521, guid: 3b3be6a6ef9579b41860ff940b1162c4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2758a84d9fea7c546810a372427740bb, type: 2}
+    - target: {fileID: -2465593400355983300, guid: 3b3be6a6ef9579b41860ff940b1162c4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2758a84d9fea7c546810a372427740bb, type: 2}
+    - target: {fileID: -1931702323923313791, guid: 3b3be6a6ef9579b41860ff940b1162c4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2758a84d9fea7c546810a372427740bb, type: 2}
     - target: {fileID: 919132149155446097, guid: 3b3be6a6ef9579b41860ff940b1162c4, type: 3}
       propertyPath: m_Name
       value: vines
       objectReference: {fileID: 0}
+    - target: {fileID: 7626465086617150038, guid: 3b3be6a6ef9579b41860ff940b1162c4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2758a84d9fea7c546810a372427740bb, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -366,6 +382,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ee70e8d2b0efb0c45b15aac8329a6869, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 291b3f29b5316bb4683666f14d21a8bf, type: 2}
     - target: {fileID: 919132149155446097, guid: ee70e8d2b0efb0c45b15aac8329a6869, type: 3}
       propertyPath: m_Name
       value: garbagecan
@@ -590,6 +610,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: c2386a02ab78da545a956e0d6a874ff8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 713ed289f5ba70949904ba2d6b61f18d, type: 2}
     - target: {fileID: 919132149155446097, guid: c2386a02ab78da545a956e0d6a874ff8, type: 3}
       propertyPath: m_Name
       value: can
@@ -803,6 +827,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6d54d4190ed35ea4c883aee39af01a8c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 3382d404083894743bf56aadc1c1f8f9, type: 2}
     - target: {fileID: 919132149155446097, guid: 6d54d4190ed35ea4c883aee39af01a8c, type: 3}
       propertyPath: m_Name
       value: walls
@@ -865,6 +893,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 3eaf7c045f813ff4cbe9ffd158ebaecb, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 77c4f0b7e89969044b972bf95b18e1f9, type: 2}
     - target: {fileID: 919132149155446097, guid: 3eaf7c045f813ff4cbe9ffd158ebaecb, type: 3}
       propertyPath: m_Name
       value: stairs
@@ -927,6 +959,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6ebba1dd12b4a744b89ec74ea2e4b41b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 584925852ca27e14c8a7977cf0e75ca2, type: 2}
     - target: {fileID: 919132149155446097, guid: 6ebba1dd12b4a744b89ec74ea2e4b41b, type: 3}
       propertyPath: m_Name
       value: bench
@@ -989,6 +1025,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: de6732afb253bb0489a5e707129a308e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e28b9feb9064a4b4289ff4fb4748f9c6, type: 2}
     - target: {fileID: 919132149155446097, guid: de6732afb253bb0489a5e707129a308e, type: 3}
       propertyPath: m_Name
       value: grate
